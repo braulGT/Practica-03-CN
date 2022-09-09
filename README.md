@@ -41,5 +41,7 @@ $f(x;a_k,c_k)=\frac{1}{1+e^{-a_k(x-c_k)}}$
 # <sub>Problema 2<sub>
 
 Cree una función en matlab que reciba como argumentos de entrada el dominio y el rango de una función de membresía, esta función debe crear la grafica del conjunto difuso con una edición de tu preferencia (no queremos repetir los códigos para gráficar cada vez que se quiera visualizar un conjunto difuzo, como se ha visto previamente).
-Prueba el código con las dos funciones del problema anterior, los parámetros que debes utilizar  (debes investigar) son los que se usan en el ejemplo de la práctica. 
+ 
+Prueba el código con las dos funciones del problema anterior, los parámetros que debes utilizar  (debes investigar) son los que se usan en el ejemplo de la práctica.
+ 
 Se espera esta sección dos llamadas a la función con las dos gráficas respectivas. 
