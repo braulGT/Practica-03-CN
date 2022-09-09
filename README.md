@@ -3,6 +3,7 @@
  
  3BV11
  
+ Aguilar Ayala José Alberto
  Gómez Trejo Braulio
  
 ## <sub> Objetivos <sub>
