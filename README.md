@@ -25,7 +25,7 @@ La lógica difusa, es una lógica alternativa a la lógica clásica que pretende
 La funcion smf calcula valores de pertenencia difusos utilizando una funcion de membresia en forma de S basada en splines.
 Para y= smf(x,params) de vuelve valores de pertenencia difusos calculados utilizando la funcion de membresia en forma de S basada en spline dada por:
 
- /assets/images/descargar.png
+! (/assets/images/descargar.png)
  
 La funcion psigmf calcula valores de pertenencia difusos utilizando el producto de dos funciones de membresia sigmoidea.
 Para y=psigmf(x,params) devuelve valores de pertenencia difusos calculados utilizando el producto de dos funciones de pertenencia. Cada funcion sigmoidea viene dada por:
